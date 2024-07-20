@@ -46,11 +46,11 @@ transformers
 tensorflow
 spacy
 matplotlib
-
+```
 ## Installation
 Clone the repository and install the required libraries:
-`
+```bash
 git clone https://github.com/Mody-Medhat/Named-Entity-Recognition-NER.git
-cd NER-Project
+cd Named-Entity-Recognition-NER
 pip install -r requirements.txt
-`
+```
