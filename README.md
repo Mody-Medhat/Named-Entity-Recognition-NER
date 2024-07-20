@@ -20,7 +20,7 @@ The model used in this project is based on the BERT (Bidirectional Encoder Repre
 
 ### Data Preprocessing
 
-The CoNLL-2003 dataset was used for training and evaluation. The dataset is publicly available and can be loaded using the `datasets` library from Hugging Face. The preprocessing steps involved tokenizing the text data and aligning NER tags with the tokens.
+The [CoNLL-2003 dataset](https://huggingface.co/datasets/eriktks/conll2003) was used for training and evaluation. The dataset is publicly available and can be loaded using the `datasets` library from Hugging Face. The preprocessing steps involved tokenizing the text data and aligning NER tags with the tokens.
 
 ### Model Training
 
